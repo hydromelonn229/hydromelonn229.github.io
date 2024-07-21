@@ -1,0 +1,26 @@
+[
+  {
+      "quantity": 1,
+      "description": "Car Cover",
+      "unitPrice": 100.00,
+      "amount": 100.00
+  },
+  {
+      "quantity": 2,
+      "description": "Floor Mats",
+      "unitPrice": 200.00,
+      "amount": 400.00
+  },
+  {
+      "quantity": 3,
+      "description": "Seat Covers",
+      "unitPrice": 300.00,
+      "amount": 900.00
+  },
+  {
+      "quantity": 1,
+      "description": "Phone Holder",
+      "unitPrice": 400.00,
+      "amount": 400.00
+  }
+]
